@@ -4,6 +4,17 @@
 **2.	Passing score:** 750 on a scale of 100-900.
 
 **3.	Domain:** 
-![](图片链接地址)
+
+|Domain name                              | Percentage of Exam
+|-----------------------------------------|-------------------
+|1. Threats, Attacks, and Vulnerabilities |    21%
+|2. Technologies and Tools                |    22%
+|3. Architecture and Design               |    15%
+|4. Identity and Access Management	      |    16%
+|5. Risk Management                       |    14%
+|6. Cryptography and PKI	                |    12%
+|Total	                                  |    100%
+
+
 **4.	Tips:** 
 Jump over performance-based questions, finish multiple choices questions first.
